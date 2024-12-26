@@ -1,0 +1,161 @@
+/* Import Lilly Font */
+@import url('http://fonts.cdnfonts.com/css/lilly');
+
+/* Base styles */
+body {
+  font-family: 'Lilly', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f8f8;
+  color: #333;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.App {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+h1 {
+  text-align: center;
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 25px;
+}
+
+/* Input styling */
+.gen input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  margin-bottom: 15px;
+  transition: 0.3s;
+}
+
+.gen input:focus {
+  border-color: #00c4cc;
+}
+
+.gen button {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background: #00c4cc;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.gen button:hover {
+  background-color: #00a5ad;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+}
+
+.extra h5 {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.extra input[type="color"],
+.extra input[type="range"] {
+  width: 100%;
+  margin-top: 5px;
+  padding: 5px;
+}
+
+.output-box img {
+  max-width: 100%;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.download-button {
+  padding: 10px 20px;
+  margin-top: 15px;
+  font-size: 16px;
+  font-weight: bold;
+  background: #00c4cc;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s ease;
+}
+
+.download-button:hover {
+  background-color: #00a5ad;
+  transform: scale(1.05);
+}
+
+/* Dark mode styles */
+body.dark-mode {
+  background-color: #212121;
+  color: #eaeaea;
+}
+
+body.dark-mode .App {
+  background-color: #333;
+}
+
+body.dark-mode h1 {
+  color: #ffffff;
+}
+
+body.dark-mode .gen input {
+  background: #444;
+  color: #eaeaea;
+  border: 2px solid #555;
+}
+
+body.dark-mode .gen button {
+  background: #008f98;
+}
+
+body.dark-mode .gen button:hover {
+  background-color: #007480;
+}
+
+body.dark-mode .download-button {
+  background-color: #008f98;
+}
+
+body.dark-mode .download-button:hover {
+  background-color: #007480;
+}
+
+.toggle-dark-mode {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  padding: 10px;
+  border: none;
+  background: #00c4cc;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s;
+}
+
+.toggle-dark-mode:hover {
+  background-color: #00a5ad;
+}
+
+body.dark-mode .toggle-dark-mode {
+  background-color: #008f98;
+}
+
+body.dark-mode .toggle-dark-mode:hover {
+  background-color: #007480;
+}
