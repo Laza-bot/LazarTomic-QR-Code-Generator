@@ -4,13 +4,13 @@
 
 <h2>Project Screenshots:</h2>
 
-  <img width="1331" alt="Screenshot 2024-12-26 at 15 15 01" src="https://github.com/user-attachments/assets/7f9802be-e88b-40e0-9c0e-8d9acff6679b" />
-<img width="1331" alt="Screenshot 2024-12-26 at 15 13 39" src="https://github.com/user-attachments/assets/36efbe4a-3bbe-4078-8506-58bfc0a30c4f" />
-<img width="1331" alt="Screenshot 2024-12-26 at 15 12 38" src="https://github.com/user-attachments/assets/a5aea75d-9751-4cf9-84c9-3e043891da56" />
-<img width="1331" alt="Screenshot 2024-12-26 at 15 11 25" src="https://github.com/user-attachments/assets/66eb3d38-f262-4261-86b4-5a068e4eb270" />
-<img width="1331" alt="Screenshot 2024-12-26 at 15 11 02" src="https://github.com/user-attachments/assets/e838ffe1-c748-48d0-b86e-523d043866da" />
-<img width="1331" alt="Screenshot 2024-12-26 at 15 07 26" src="https://github.com/user-attachments/assets/a2de8429-d458-41f9-aa17-4781b4c28758" />
-<img width="1331" alt="Screenshot 2024-12-26 at 15 11 56" src="https://github.com/user-attachments/assets/51fcd3b8-cb65-4a40-b1e9-b44463cea57c" />
+<img width="1322" alt="Screenshot 2024-12-26 at 12 34 40" src="https://github.com/user-attachments/assets/ff615f31-bad4-4e25-b261-583a62920a0d" />
+<img width="1322" alt="Screenshot 2024-12-26 at 12 30 59" src="https://github.com/user-attachments/assets/0a3a40ff-4f79-4bfc-8f28-23ae4cffe759" />
+<img width="1322" alt="Screenshot 2024-12-26 at 12 30 38" src="https://github.com/user-attachments/assets/8b7eb67c-b7ab-44ac-80a1-4e6f5b79a6b3" />
+<img width="1322" alt="Screenshot 2024-12-26 at 12 29 59" src="https://github.com/user-attachments/assets/e850e353-cccb-4374-877b-a7326aa42d4d" />
+<img width="1322" alt="Screenshot 2024-12-26 at 12 29 46" src="https://github.com/user-attachments/assets/74faaa1e-99ca-40e5-a6d0-16daaed9e029" />
+
+
 
 <h2>🧐 Features:</h2>
 
